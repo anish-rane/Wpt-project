@@ -1,0 +1,5 @@
+.contact-bg {
+  background-image: url('D:\cdac\PG-DAC\moduls\WPT\Project\olms\Ui\src\assets\contactus.jpeg'); /* place your image in public/images folder */
+  background-size: cover;
+  background-position: center;
+}
