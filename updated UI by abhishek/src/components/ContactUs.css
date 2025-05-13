@@ -1,0 +1,5 @@
+.contact-bg {
+  background-image: url('C:\Users\abhsh\Downloads\leave management\Ui\src\assets\contactus.jpeg'); /* place your image in public/images folder */
+  background-size: cover;
+  background-position: center;
+}
